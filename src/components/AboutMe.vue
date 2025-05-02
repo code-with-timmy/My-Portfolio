@@ -64,7 +64,7 @@
         eager to learn, experiment, and push the boundaries of what’s possible
         on the web.
       </p>
-      <div class="w-fit cursor-pointer">
+      <div class="w-fit cursor-pointer mb-10">
         <a
           href="https://www.instagram.com/yo_timmy1/"
           target="_blank"
