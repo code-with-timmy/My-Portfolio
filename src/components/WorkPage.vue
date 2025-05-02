@@ -136,7 +136,7 @@
           >
             <h1 class="text-secondary font-bold text-[1.1rem]">Zeal</h1>
             <div>
-              <a href="https://timmy-dev.vercel.app" target="_blank">
+              <a href="https://zeal-connect.vercel.app" target="_blank">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
